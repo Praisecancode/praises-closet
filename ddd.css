@@ -1,0 +1,62 @@
+.pix{
+    list-style-type: none;
+    color: red;
+}
+.praise{
+    color: grey;
+    text-decoration: none;
+}
+.omoh{
+    display: flex;
+    justify-content: space-between;
+}
+.praise:hover{text-decoration: underline;
+    background-color: cornsilk;
+padding: 20px;
+border-radius: 20px;
+}
+.ram{
+    background-color: coral;
+    width: 50%; 
+    height: 500px;
+    margin: auto;
+     position: relative;
+      border-radius: 50px 700px;
+}
+.dot{
+    background-color: aqua;
+     width: 70%; 
+     height: 300px;
+    position: absolute;
+     top: 90px; 
+     left: 90px;
+border-top: 10px solid blue;
+ border-radius: 100px 200px 300px 400px;
+border-right: 5px solid green;
+border-left: 8px solid tan;
+border-bottom: 12px solid grey;
+}
+.van{
+    border: none;
+     background-color: red;
+}
+body{
+    background-color: pink;
+}
+.beef{
+ width: 50%;
+  height: 100px;
+    background-color: brown;
+}
+.div2{
+    background-color: purple;
+    width: 30%;
+     height: 300px;
+
+}
+.next{
+    background-color: white;
+    padding-bottom: 50px;
+    padding: 10px 20px 30px 40px;
+    margin: 0px;
+}
